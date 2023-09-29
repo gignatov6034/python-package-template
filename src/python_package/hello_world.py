@@ -19,6 +19,10 @@ def good_night() -> str:
     print("good night")
     return "string"
 
+def good_goodbye() -> str:
+    """Doc String"""
+    print("goodbye")
+    return "string"
 
 def hello_goodbye():
     hello_world(1)

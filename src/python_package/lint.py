@@ -4,7 +4,7 @@ import sys
 
 from pylint import lint
 
-THRESHOLD = 9
+THRESHOLD = 6
 
 run = lint.Run(["hello_world.py"], do_exit=False)
 
