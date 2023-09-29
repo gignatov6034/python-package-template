@@ -19,7 +19,7 @@ def good_night() -> str:
     print("good night")
     return "string"
 
-def good_goodbye() -> str:
+def hello_goodbye() -> str:
     """Doc String"""
     print("goodbye")
     return "string"
